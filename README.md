@@ -15,10 +15,10 @@ test` to see the charts.
 
 To install the istiod chart:
 ```
-    helm install my-nginx test/nginx
+    helm install my-sample-app01 test/sample-app01
 ```
 
 To uninstall the chart:
 ```
-    helm delete my-nginx
+    helm delete my-sample-app01
 ```

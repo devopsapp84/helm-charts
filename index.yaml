@@ -2,6 +2,14 @@ apiVersion: v1
 entries:
   sample-app01:
   - apiVersion: v2
+    created: "2022-01-26T17:50:24.859432793Z"
+    description: A Helm chart for Kubernetes
+    digest: 13038f55348a00f6aae03ffcfde413b697c1e5984529151acee56d9432a28a6c
+    name: sample-app01
+    urls:
+    - https://github.com/devopsapp84/helm-charts/releases/download/sample-app01-0.2.2/sample-app01-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v2
     created: "2022-01-26T13:45:22.00412893Z"
     description: A Helm chart for Kubernetes
     digest: e39048b7d6f6c6694fc889c5b1bac1ae367cd05601c4f55af76facd25e4b3383

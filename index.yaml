@@ -9,4 +9,13 @@ entries:
     urls:
     - https://github.com/devopsapp84/helm-charts/releases/download/sample-app01-0.1.0/sample-app01-0.1.0.tgz
     version: 0.1.0
+  sample-app02:
+  - apiVersion: v2
+    created: "2022-01-26T11:59:43.056101273Z"
+    description: A Helm chart for Kubernetes
+    digest: 49579116417e99a2072f0aca8dfe04684d0acbf09406e8758cfce3bd35910b6d
+    name: sample-app02
+    urls:
+    - https://github.com/devopsapp84/helm-charts/releases/download/sample-app02-0.0.1/sample-app02-0.0.1.tgz
+    version: 0.0.1
 generated: "2022-01-26T11:26:47.045879068Z"
